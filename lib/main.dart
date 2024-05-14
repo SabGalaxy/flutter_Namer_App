@@ -45,8 +45,9 @@ class SignUpScreen extends StatelessWidget {
 }
 
 class AnimatedHeader extends StatefulWidget {
+
   @override
-  _AnimatedHeaderState createState() => _AnimatedHeaderState();
+  State<AnimatedHeader> createState() => _AnimatedHeaderState();
 }
 
 class _AnimatedHeaderState extends State<AnimatedHeader>
