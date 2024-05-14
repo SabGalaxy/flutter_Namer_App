@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Follow the steps below to view the Sign Up Page.
+1 - Install VSCode
+2 - Install Flutter SDK
+3 - Choose chrome as the device
+4 - Clone the flutter_Namer_App repo
+5 - Run fromm VSCode in debug mode to view the app.
